@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Count Words'
+      'command': 'count-word:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Count Words'
+      'submenu': [
+        {
+          'label': 'Count'
+          'command': 'count-word:toggle'
+        }
+      ]
+    ]
+  }
+]
