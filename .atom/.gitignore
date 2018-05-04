@@ -1,8 +1,10 @@
 .DS_Store
 .apm/
 .node-gyp/
+blob-store/
 compile-cache/
 npm-debug.log
 packages/
 projects.cson
+recovery/
 storage/
