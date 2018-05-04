@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Document Outline",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "document-outline:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
