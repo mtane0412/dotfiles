@@ -20,8 +20,7 @@
     invisibles: {}
   "exception-reporting":
     userId: "3c9d109f-aeff-f024-379c-cf19e20a1545"
-  "linter-ui-default":
-    showPanel: true
+  "linter-ui-default": {}
   "markdown-preview":
     useGitHubStyle: true
   welcome:
